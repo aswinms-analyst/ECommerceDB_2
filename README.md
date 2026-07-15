@@ -1,4 +1,3 @@
-# 📊 Day 4: SQL Coding Challenge – Clauses & Operators
 # Database: ECommerce_DB
 # 🔹 Objectives
 Practice sorting and limiting results with ORDER BY and LIMIT/TOP
